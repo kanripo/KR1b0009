@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 禹貢論
-#+DATE: 2018-03-31 09:03:00.839319
+#+DATE: 2018-03-31 09:03:00.920234
 #+PROPERTY: ID KR1b0009
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 跋禹貢論後
 <pb:KR1b0009_WYG_005-1a>¶
 ¶
@@ -170,7 +170,7 @@
 卷下¶
 ¶
 ¶
-古𣻌漢圖¶
+古漾漢圖¶
 ¶
 ¶
 叙說¶
@@ -237,7 +237,7 @@
 叙說¶
 ¶
 <pb:KR1b0009_WYG_005-6b>¶
-兖青徐&KR0045;四州貢道相因圖¶
+兖青徐揚四州貢道相因圖¶
 ¶
 ¶
 叙說¶
